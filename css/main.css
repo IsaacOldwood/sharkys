@@ -1,6 +1,6 @@
 .homepage-title{
     font-size: 20px;
-    color: white;
+    color: whitesmoke;
     vertical-align: center;
     text-align: center;
 }
@@ -8,7 +8,7 @@
 .homepage-header{
     font-size: 22px;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    color: white;
+    color: silver;
     width: 100%;
     vertical-align: center;
     text-align: center;
@@ -22,14 +22,14 @@
     bottom: 0;
     width: 100%;
     background-color: black;
-    color: white;
+    color: whitesmoke;
     text-align: center;
 }
 
 body{
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     background-color: black;
-    color: white;
+    color: whitesmoke;
 }
 
 .homepage-info{
@@ -58,13 +58,13 @@ body{
 }
 
 .homepage-intro{
-    color: white;
+    color: whitesmoke;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     text-align: center;
 }
 
 .homepage-reviews{
-    color: white;
+    color: whitesmoke;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     text-align: center;
 }
