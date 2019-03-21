@@ -7,7 +7,7 @@
 
 .homepage-header{
     font-size: 22px;
-    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     color: white;
     width: 100%;
     vertical-align: center;
@@ -26,11 +26,18 @@
     text-align: center;
 }
 
-
 body{
-    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
-    background: linear-gradient(slategrey,black);
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    background-color: linear-gradient(slategrey,black);
     color: white;
+}
+
+.homepage-info{
+    font-size: 18px;
+}
+
+.appointment-text{
+    font-size: 20px;
 }
 
 .contact-info{
@@ -47,13 +54,13 @@ body{
 
 .homepage-intro{
     color: white;
-    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     text-align: center;
 }
 
 .homepage-reviews{
     color: white;
-    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     text-align: center;
 }
 
