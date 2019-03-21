@@ -34,10 +34,15 @@ body{
 
 .homepage-info{
     font-size: 18px;
+    font-style: italic;
+}
+
+.homepage-times{
+    font-size: 20px;
 }
 
 .appointment-text{
-    font-size: 20px;
+    font-size: 30px;
 }
 
 .contact-info{
@@ -68,5 +73,5 @@ body{
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
+    width: 25%;
 }
