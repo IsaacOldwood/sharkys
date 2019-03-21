@@ -66,6 +66,7 @@ body{
 .homepage-reviews-title{
     color: whitesmoke;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    vertical-align: center;
     text-align: center;
 }
 
