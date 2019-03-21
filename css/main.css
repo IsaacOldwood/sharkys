@@ -29,7 +29,7 @@
 body{
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     background-color: black;
-    background: -webkit-linear-gradient(slategrey,black);
+    background-color: -webkit-linear-gradient(slategrey,black);
     color: whitesmoke;
 }
 
