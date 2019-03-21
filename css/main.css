@@ -63,10 +63,14 @@ body{
     text-align: center;
 }
 
-.homepage-reviews{
+.homepage-reviews-title{
     color: whitesmoke;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     text-align: center;
+}
+
+.homepage-reviews{
+    font-size: 18px;
 }
 
 .mainpage-logo{
