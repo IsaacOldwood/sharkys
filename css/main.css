@@ -10,7 +10,6 @@
     font-family: 'Calibri', sans-serif;
     color: white;
     width: 100%;
-    background-color: navy;
     vertical-align: center;
     text-align: center;
     position: relative;
@@ -30,7 +29,7 @@
 
 body{
     font-family: 'Calibri', sans-serif;
-    background-color: linear-gradient(slategrey,black);
+    background: linear-gradient(slategrey,black);
     color: white;
 }
 
@@ -47,13 +46,13 @@ body{
 }
 
 .homepage-intro{
-    color: black;
+    color: white;
     font-family: 'Calibri', sans-serif;
     text-align: center;
 }
 
 .homepage-reviews{
-    color: black;
+    color: white;
     font-family: 'Calibri', sans-serif;
     text-align: center;
 }
