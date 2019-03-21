@@ -7,7 +7,7 @@
 
 .homepage-header{
     font-size: 22px;
-    font-family: 'Calibri', sans-serif;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
     color: white;
     width: 100%;
     vertical-align: center;
@@ -28,8 +28,8 @@
 
 
 body{
-    font-family: 'Calibri', sans-serif;
-    background: black;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    background: linear-gradient(slategrey,black);
     color: white;
 }
 
@@ -47,24 +47,19 @@ body{
 
 .homepage-intro{
     color: white;
-    font-family: 'Calibri', sans-serif;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
     text-align: center;
 }
 
 .homepage-reviews{
     color: white;
-    font-family: 'Calibri', sans-serif;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
     text-align: center;
 }
 
-.Headshot{
+.mainpage-logo{
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 50%;
-}
-
-.CV-title{
-    text-align: center;
-    vertical-align: center;
 }
