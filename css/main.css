@@ -1,6 +1,6 @@
 .homepage-title{
     font-size: 20px;
-    color: whitesmoke;
+    color: silver;
     vertical-align: center;
     text-align: center;
 }
@@ -8,7 +8,7 @@
 .homepage-header{
     font-size: 22px;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    color: silver;
+    color: whitesmoke;
     width: 100%;
     vertical-align: center;
     text-align: center;
@@ -29,6 +29,7 @@
 body{
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     background-color: black;
+    background: -webkit-linear-gradient(slategrey,black);
     color: whitesmoke;
 }
 
