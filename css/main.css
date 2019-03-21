@@ -28,7 +28,7 @@
 
 body{
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    background: black;
+    background-color: black;
     color: white;
 }
 
@@ -64,4 +64,9 @@ body{
     text-align: center;
 }
 
-
+.mainpage-logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
