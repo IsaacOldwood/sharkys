@@ -1,0 +1,71 @@
+.homepage-title{
+    font-size: 20px;
+    color: white;
+    vertical-align: center;
+    text-align: center;
+}
+
+.homepage-header{
+    font-size: 22px;
+    font-family: 'Calibri', sans-serif;
+    color: white;
+    width: 100%;
+    background-color: navy;
+    vertical-align: center;
+    text-align: center;
+    position: relative;
+    margin:0 auto;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+
+body{
+    font-family: 'Calibri', sans-serif;
+    background-color: linear-gradient(slategrey,black);
+    color: white;
+}
+
+.contact-info{
+    font-size: 30px;
+    color: black;
+    vertical-align: center;
+    text-align: center;
+}
+
+.centering-container{
+    max-width: 960px;
+    margin: auto;
+}
+
+.homepage-intro{
+    color: black;
+    font-family: 'Calibri', sans-serif;
+    text-align: center;
+}
+
+.homepage-reviews{
+    color: black;
+    font-family: 'Calibri', sans-serif;
+    text-align: center;
+}
+
+.Headshot{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.CV-title{
+    text-align: center;
+    vertical-align: center;
+}
